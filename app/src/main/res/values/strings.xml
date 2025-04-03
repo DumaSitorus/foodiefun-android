@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">FoodieFun</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_favorite">Favorite</string>
+    <string name="menu_profile">Profile</string>
+    <string name="developer_name">Duma Mora Arta Sitorus</string>
+    <string name="developer_email">dumamora5@gmail.com</string>
+    <string name="search_food">Masak apa hari ini?</string>
+    <string name="welcome">Welcome to FoodieFun</string>
+    <string name="about">Tentang FoodieFun</string>
+    <string name="about_desc">FoodieFun adalah aplikasi pencarian dan pengelolaan resep yang dirancang untuk membantu pengguna menemukan dan menyimpan berbagai resep masakan dengan mudah. Dengan tampilan yang intuitif dan fitur yang lengkap, FoodieFun menjadi teman terbaik bagi siapa saja yang ingin belajar masakan yang praktis dengan bahan yang mudah ditemukan disekitar kita.</string>
+    <string name="fitur_unggulan">Fitur Unggulan</string>
+    <string name="title_fitur_1">1. Cari Resep Favorit</string>
+    <string name="fitur_1">Temukan berbagai resep makanan dari berbagai makanan yang praktis untuk dibuat baik bagi pemula sekalipun.</string>
+    <string name="title_fitur_2">2. Detail Resep Lengkap</string>
+    <string name="fitur_2">Setiap resep dilengkapi dengan daftar bahan, langkah-langkah pembuatan, serta gambar pendukung untuk mengenali masakan.</string>
+    <string name="title_fitur_3">3. Simpan dan Kelola Resep Favorit</string>
+    <string name="fitur_3">Tambahkan resep ke dalam daftar favorit agar mudah diakses kapan saja.</string>
+    <string name="title_fitur_4">4. Fitur Pencarian Cepat</string>
+    <string name="fitur_4">Gunakan fitur pencarian untuk menemukan resep berdasarkan nama masakan.</string>
+    <string name="title_fitur_5">5. Hapus Resep dengan Mudah</string>
+    <string name="fitur_5">Kelola daftar resep dengan fitur hapus, dilengkapi dengan konfirmasi agar tidak terjadi penghapusan yang tidak disengaja.</string>
+    <string name="why_foodiefun">Kenapa memilih FoodieFun</string>
+    <string name="reason_1">Mudah digunakan</string>
+    <string name="reason_2">Banyak pilihan resep</string>
+    <string name="reason_3">Gratis dan Tanpa Iklan</string>
+    <string name="reason_4">Cocok untuk semua orang</string>
+    <string name="clossing">Selamat memasak makanan praktis dan enak bersama FoodieFun!</string>
+    <string name="foodiefun_logo">FoodieFun Logo</string>
+    <string name="simpan">Simpan</string>
+    <string name="hapus">Hapus</string>
+    <string name="batal">Batal</string>
+    <string name="langkah">langkah</string>
+    <string name="kembali">Kembali</string>
+    <string name="gambar_terpilih">Gambar yang Dipilih</string>
+    <string name="upload_gambar">Upload Gambar</string>
+    <string name="tambah_bahan">Tambah Bahan</string>
+    <string name="tambah_langkah">Tambah Langkah</string>
+    <string name="gagal_memuat_data">Gagal memuat data</string>
+    <string name="konfirmasi_hapus">Konfirmasi Hapus</string>
+    <string name="masak_apa_hari_ini">Masak apa hari ini?</string>
+    <string name="about_page">About Page</string>
+    <string name="info_app">Info App</string>
+    <string name="nama_menu">Nama Menu</string>
+    <string name="deskripsi">Deskripsi Menu</string>
+
+
+</resources>
